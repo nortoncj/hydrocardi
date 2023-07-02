@@ -9,7 +9,7 @@ export const Button = forwardRef(
     {
       as = 'button',
       className = '',
-      variant = 'primary',
+      variant = 'success',
       width = 'auto',
       ...props
     },

@@ -1,3 +1,5 @@
+import AnnouncementBar from './AnnouncementBar';
+
 export {Layout} from './Layout';
 export {Drawer, useDrawer} from './Drawer';
 export {Heading, Section, Text, PageHeader} from './Text';
@@ -21,5 +23,6 @@ export {SortFilter} from './SortFilter';
 export {Grid} from './Grid';
 export {FeaturedProducts} from './FeaturedProducts';
 export {AddToCartButton} from './AddToCartButton';
+export {AnnouncementBar} from './AnnouncementBar';
 // Sue me
 export * from './Icon';
